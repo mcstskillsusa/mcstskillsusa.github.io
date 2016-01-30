@@ -160,6 +160,12 @@ h1.main {
 	color: #E91C1C;
 }
 
+h2.main{ 
+text-align: center; 
+    margin-top: -10px;
+	color: #E91C1C;
+}
+
 
 .formLinks {
     text-align: center;
@@ -171,29 +177,8 @@ h1.main {
 list-style-type: none;
 }
 
-#main {
+p.calendar { 
 	text-align: center; 
-	color: #E91C1C;
-}
-iframe { 
-	margin-left: 290px;
-}
-
-.emails {
-	font-size: 20px; 
-	list-style-type: none;
-	margin-left: -40px;
-	
-}
-
-.logo { 
-	float: right;
-	margin-top: 200px;
-    margin-right: 250px;
-	width: 25%;
-	height: 25%;
-	
-
 }
 
 /*=======================================
